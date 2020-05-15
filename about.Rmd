@@ -2,4 +2,8 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- Care Anderson
+- PhD Candidate, [Keiluweit Lab](http://umass-biogeochem.weebly.com/research.html), UMass Amherst
+- I'm a soil biogeochemist and an advocate for open, inclusive, and communicative science. As a soil scientist, my interests lie in understanding the factors that control biogeochemical processes, from the micro- to the ecosystem-scale.
+
+![](IMG-5417_small.jpg)
