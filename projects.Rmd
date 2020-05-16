@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+## Soil carbon cycling in dynamic floodplain systems
+
+- Soils are a vast reservoir of global carbon, containing more carbon than the atmosphere and plants combined. However, because we do not know what keeps carbon in the soil, we cannot predict how soil carbon will respond to climate change.
+- As part of a DOE-sponsored effort, I am working with Marco Keiluweit's [Soil Biogeochemistry Group](http://umass-biogeochem.weebly.com/) and a team of researchers from Stanford and the Lawrence Berkeley National Lab to explore an ecosystem heavily impacted by climate change - alpine watersheds. The work investigates how snowmelt events and associated flooding impact carbon dynamics in floodplain soils, through interactions with both minerals and microbes.
+- Understanding how different carbon sources react with the soil in the changing environment of a floodplain will improve our ability to predict the fate of soil carbon in response to climate change.
+
+
+## Soil carbon cycling in high latitude permafrost ecosystems
+
+- As a Post Masters Research Associate at the Pacific Northwest National Lab, I worked with James Stegen and a team of researchers to investigate soil carbon cycling in high latitude systems impacted by permafrost (permanently frozen soil). Specifically, we addressed how soil carbon cycling and associated microbial communities are spatially structured in these ecosystems, and how that structure changes as permafrost thaws. We used field, lab, and modeling techniques to explore these relationships.
+- Our field site for this work was the [Caribou-Poker Creeks Research Watershed (CPCRW)](http://www.lter.uaf.edu/research/study-sites-cpcrw), just north of Fairbanks, Alaska, and part of the Bonanza Creek LTER. CPCRW and Bonanza Creek maintain an open database of field data.
+- Want to see us in permafrost-coring action? [Check out our permafrost coring efforts here](https://www.youtube.com/watch?v=qdyhhgFzne8)!
+
+## Effects of biosolids and biochar amendments on agricultural soil
+
+- I completed my MS in Soils and Biogeochemistry at UC Davis. As part of Kate Scow's [Soil Microbial Ecology Lab](http://scowlab.lawr.ucdavis.edu/), I studied how waste products such as biosolids and biochar can be used as amendments to agricultural soil. A major question I asked was how chemicals commonly found in biosolids (antibiotics and other personal care products, for example) can affect soil microbial communities and related processes, and if biochar can be used to remediate contaminated biosolids.
